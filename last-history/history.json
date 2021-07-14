@@ -4,11 +4,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 2,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "93275426c3b7f780",
+      "reportUrl" : "https://jkozma78.github.io/cicd-py-example/2//#testresult/93275426c3b7f780",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626288405982,
+        "stop" : 1626288405983,
+        "duration" : 1
+      }
+    }, {
       "uid" : "12f5c2bee66ecc1f",
       "reportUrl" : "https://jkozma78.github.io/cicd-py-example/2//#testresult/12f5c2bee66ecc1f",
       "status" : "passed",
@@ -19,36 +28,25 @@
       }
     } ]
   },
-  "8b7d100b89a9b0e22a8d6732c7ee0ba9" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "722a44300e2e4720",
-      "reportUrl" : "https://jkozma78.github.io/cicd-py-example/2//#testresult/722a44300e2e4720",
-      "status" : "passed",
-      "time" : {
-        "start" : 1623703254854,
-        "stop" : 1623703254854,
-        "duration" : 0
-      }
-    } ]
-  },
   "dce78d7dd5962c01ca0a9a6e9bc9920e" : {
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 2,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "7ac81afaf0019f9b",
+      "reportUrl" : "https://jkozma78.github.io/cicd-py-example/2//#testresult/7ac81afaf0019f9b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626288405978,
+        "stop" : 1626288405978,
+        "duration" : 0
+      }
+    }, {
       "uid" : "eb9f5953d5e24a4",
       "reportUrl" : "https://jkozma78.github.io/cicd-py-example/2//#testresult/eb9f5953d5e24a4",
       "status" : "passed",
@@ -64,17 +62,55 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 2,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "7d9788756f768d98",
+      "reportUrl" : "https://jkozma78.github.io/cicd-py-example/2//#testresult/7d9788756f768d98",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626288405981,
+        "stop" : 1626288405981,
+        "duration" : 0
+      }
+    }, {
       "uid" : "1eed23d9cf00ff66",
       "reportUrl" : "https://jkozma78.github.io/cicd-py-example/2//#testresult/1eed23d9cf00ff66",
       "status" : "passed",
       "time" : {
         "start" : 1623703254855,
         "stop" : 1623703254855,
+        "duration" : 0
+      }
+    } ]
+  },
+  "8b7d100b89a9b0e22a8d6732c7ee0ba9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "f286b51d508dbb36",
+      "reportUrl" : "https://jkozma78.github.io/cicd-py-example/2//#testresult/f286b51d508dbb36",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626288405980,
+        "stop" : 1626288405980,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "722a44300e2e4720",
+      "reportUrl" : "https://jkozma78.github.io/cicd-py-example/2//#testresult/722a44300e2e4720",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623703254854,
+        "stop" : 1623703254854,
         "duration" : 0
       }
     } ]

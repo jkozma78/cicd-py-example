@@ -1,0 +1,78 @@
+{
+  "uid" : "7ac81afaf0019f9b",
+  "name" : "test_add_positive",
+  "fullName" : "test_mymath#test_add_positive",
+  "historyId" : "dce78d7dd5962c01ca0a9a6e9bc9920e",
+  "time" : {
+    "start" : 1626288405978,
+    "stop" : 1626288405978,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_mymath"
+  }, {
+    "name" : "host",
+    "value" : "fv-az77-843"
+  }, {
+    "name" : "thread",
+    "value" : "2780-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_mymath"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "76407cd4b68dacd7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626288405735,
+        "stop" : 1626288405735,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "eb9f5953d5e24a4",
+        "reportUrl" : "https://jkozma78.github.io/cicd-py-example/2//#testresult/eb9f5953d5e24a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623703254852,
+          "stop" : 1623703254852,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "7ac81afaf0019f9b.json",
+  "parameterValues" : [ ]
+}
